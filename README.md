@@ -1,5 +1,5 @@
-# ML-KNN
-Python ML code using KNN (K-Nearest Neighbors) algorithm to predict if tumor is cancerous.
+# ML-Linear-Regression-Cancer
+Python ML code using linear regression algorithm to predict if tumor is cancerous.
 
 The code does the following:
  1. Reads CSV file
